@@ -1,5 +1,1 @@
-# Welcome to wlf's personal blog
-
-## tech
-
-## hobby
+这个人很懒，什么都没写
